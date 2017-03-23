@@ -4,6 +4,7 @@
   "description": "Reactor is a React starter project.",
   "main": "index.js",
   "scripts": {
+    "compile": "webpack",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {

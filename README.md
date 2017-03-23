@@ -28,3 +28,10 @@ Transforms ES6 js to ES5 js for current browsers. Used to convert JSX syntax.
  - loaders: (Rules): specify how each file should be processed before being bundled.
  - resolve: Path to imported and required packages
  
+ 
+Compile
+---
+ 
+```
+npm run compile
+```
