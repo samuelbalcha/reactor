@@ -23,6 +23,8 @@
     "babel-loader": "^6.4.1",
     "babel-preset-latest": "^6.24.0",
     "babel-preset-react": "^6.23.0",
-    "webpack": "^2.3.1"
+    "express": "^4.15.2",
+    "webpack": "^2.3.1",
+    "webpack-dev-middleware": "^1.10.1"
   }
 }
